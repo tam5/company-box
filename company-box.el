@@ -259,7 +259,7 @@ Examples:
     (tool-bar-lines . 0)
     (line-spacing . 0)
     ;; (unsplittable . nil)
-    (undecorated . t)
+    (undecorated . nil)
     (top . -1)
     (visibility . nil)
     (mouse-wheel-frame . nil)
